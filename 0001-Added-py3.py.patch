@@ -1,0 +1,21 @@
+From 731199240b052a12c86b543347d8ee3e0d7d78b5 Mon Sep 17 00:00:00 2001
+From: dusanprog <65948347+dusanprog@users.noreply.github.com>
+Date: Fri, 2 Jul 2021 12:44:47 +0200
+Subject: [PATCH] Added py3.py
+
+---
+ py3.py | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 py3.py
+
+diff --git a/py3.py b/py3.py
+new file mode 100644
+index 0000000..c558019
+--- /dev/null
++++ b/py3.py
+@@ -0,0 +1,2 @@
++for i in range 1000:
++	print(i)
+-- 
+2.32.0.windows.1
+
